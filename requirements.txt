@@ -1,0 +1,4 @@
+adafruit-ampy
+pyserial
+# Substitua o URL abaixo pelo repositório correto se necessário
+git+ssh://git@github.com/henryhamon/meuPia-core.git#egg=meupia-core
